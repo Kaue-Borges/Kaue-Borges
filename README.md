@@ -1,31 +1,38 @@
-# Olá! Eu sou o Kaue Borges 👋
+# Olá, eu sou o Kaue Borges! 👋
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💻 Desenvolvo projetos de **automação, APIs e aplicações web**  
-☁️ Estudando **DevOps, Cloud, containers e CI/CD**
+**Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvimento, Automação e DevOps**
 
-Gosto de transformar processos manuais em soluções que economizam tempo e tornam o trabalho mais confiável. Meu foco de evolução profissional é a área de **DevOps/SRE**, sem deixar de praticar desenvolvimento de software.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e gosto de transformar tarefas repetitivas em soluções úteis. Tenho desenvolvido projetos com **Python, APIs, automação de processos e aplicações web**, enquanto aprofundo meus conhecimentos em **Docker, Linux, CI/CD e Cloud**.
+
+Meu objetivo profissional é evoluir na área de **DevOps/SRE**, combinando desenvolvimento de software com automação e confiabilidade de sistemas.
 
 ## 🛠️ Tecnologias e ferramentas
 
-**Linguagens:** Python · JavaScript · Java · C++  
-**Backend e automação:** Flask · Node.js · Express · Playwright · APIs REST · n8n  
-**Infraestrutura e ferramentas:** Docker · Linux · Git · GitHub Actions · CI/CD  
-**Em estudo:** AWS · infraestrutura como código · observabilidade
+| Área | Tecnologias |
+| --- | --- |
+| **Linguagens** | Python, JavaScript, TypeScript, Java, C++ |
+| **Backend e automação** | Flask, Node.js, Express, Playwright, APIs REST, n8n |
+| **Frontend** | HTML, CSS, React, Vite |
+| **DevOps e infraestrutura** | Docker, Linux, Git, GitHub Actions, CI/CD |
+| **Em estudo** | AWS, infraestrutura como código e observabilidade |
 
 ## 🚀 Projetos em destaque
 
-| Projeto | Sobre |
+| Projeto | O que você encontra |
 | --- | --- |
-| [Automação WooCommerce](https://github.com/Kaue-Borges/woocommerce-product-automation) | Scripts Python para apoiar o cadastro e o gerenciamento de mídias de produtos, com automação de navegador e dashboard. |
-| [Aulas da Faculdade](https://github.com/Kaue-Borges/aulas-faculdade) | Exercícios de C++, Java, HTML, CSS, JavaScript e Node.js/Express organizados por disciplinas. |
+| **[Automação WooCommerce](https://github.com/Kaue-Borges/woocommerce-product-automation)** | Scripts em Python e Playwright para apoiar o cadastro e a gestão de mídias de produtos no WooCommerce. |
+| **[ERP Costuras Hoinatz](https://github.com/Kaue-Borges/erp-costuras-hoinatz)** | Aplicação em React, Vite e TypeScript para leitura de documentos de produção em PDF e geração de etiquetas. |
+| **[Aulas da Faculdade](https://github.com/Kaue-Borges/aulas-faculdade)** | Exercícios e avaliações de C++, Java, HTML, CSS, JavaScript e Node.js/Express, organizados por disciplina. |
 
-## 📚 O que estou desenvolvendo
+## ☁️ Aprendendo DevOps na prática
 
-- Prática com Docker, Linux e automação de pipelines.
-- Desenvolvimento de APIs e integração entre sistemas.
-- Organização de projetos com testes, documentação e versionamento.
+Estou consolidando meus estudos com laboratórios de **containers, Nginx e GitHub Actions**, além de práticas com Linux, redes e integração contínua. Meu objetivo é documentar projetos reais, entender os fundamentos e evoluir gradualmente para infraestrutura como código e observabilidade.
 
-## 🤝 Vamos conversar?
+## 📫 Conecte-se
 
-Veja meus repositórios aqui no [GitHub](https://github.com/Kaue-Borges). Estou sempre evoluindo meus projetos e aprendendo novas tecnologias.
+- **GitHub:** [github.com/Kaue-Borges](https://github.com/Kaue-Borges)
+- **Repositórios:** confira os projetos em destaque acima e a aba [Repositories](https://github.com/Kaue-Borges?tab=repositories).
+
+---
+
+*Aprendendo, construindo e melhorando um projeto de cada vez.*
