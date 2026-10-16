@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá! Eu sou o Kaue Borges 👋
 
-<!--
-**Kaue-Borges/Kaue-Borges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+💻 Desenvolvo projetos de **automação, APIs e aplicações web**  
+☁️ Estudando **DevOps, Cloud, containers e CI/CD**
 
-Here are some ideas to get you started:
+Gosto de transformar processos manuais em soluções que economizam tempo e tornam o trabalho mais confiável. Meu foco de evolução profissional é a área de **DevOps/SRE**, sem deixar de praticar desenvolvimento de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e ferramentas
+
+**Linguagens:** Python · JavaScript · Java · C++  
+**Backend e automação:** Flask · Node.js · Express · Playwright · APIs REST · n8n  
+**Infraestrutura e ferramentas:** Docker · Linux · Git · GitHub Actions · CI/CD  
+**Em estudo:** AWS · infraestrutura como código · observabilidade
+
+## 🚀 Projetos em destaque
+
+| Projeto | Sobre |
+| --- | --- |
+| [Automação WooCommerce](https://github.com/Kaue-Borges/woocommerce-product-automation) | Scripts Python para apoiar o cadastro e o gerenciamento de mídias de produtos, com automação de navegador e dashboard. |
+| [Aulas da Faculdade](https://github.com/Kaue-Borges/aulas-faculdade) | Exercícios de C++, Java, HTML, CSS, JavaScript e Node.js/Express organizados por disciplinas. |
+
+## 📚 O que estou desenvolvendo
+
+- Prática com Docker, Linux e automação de pipelines.
+- Desenvolvimento de APIs e integração entre sistemas.
+- Organização de projetos com testes, documentação e versionamento.
+
+## 🤝 Vamos conversar?
+
+Veja meus repositórios aqui no [GitHub](https://github.com/Kaue-Borges). Estou sempre evoluindo meus projetos e aprendendo novas tecnologias.
